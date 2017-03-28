@@ -1,5 +1,3 @@
 # hello-world
 
-Hi Human
-
-I am new to the github world that doing exercise on my own.
+ hello-world/06/6.7/Outer.java is newly created but not test under JDK1.8 yet.
