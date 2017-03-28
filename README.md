@@ -1,2 +1,5 @@
 # hello-world
-hello world exercise
+
+Hi Human
+
+I am new to the github world that doing exercise on my own.
