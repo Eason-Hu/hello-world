@@ -11,7 +11,7 @@ public class Outer
   }
   public void accessInnerProp()
   {
-    System.out.println("Inner Class Prop: " ＋　ｎｅｗ　Iｎｎｅｒ（）.inProp);
+    System.out.println("Inner Class Prop: " ＋　ｎｅｗ　Iｎｎｅｒ().inProp);
   }
   public static void main(String[] args)
   {
